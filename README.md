@@ -14,7 +14,7 @@ This e-invoicing project is a web application built with Node.js, Express, Postg
 1. Clone the repository:
 
 ```sh
-https://github.com/aksuharun/e-invoicing.git
+git clone https://github.com/aksuharun/e-invoicing.git
 ```
 
 2. Install backend dependencies:
